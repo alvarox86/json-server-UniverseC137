@@ -1,25 +1,14 @@
 {
   "variations": [
     {
-      "id": 1,
-      "name": "Toxic Rick Sanchez",
+      "id": 311,
+      "name": "Toxic Morty Smith",
       "status": "Alive",
       "species": "Human",
       "type": "",
       "gender": "Male",
-      "origin": "Earth (C-727)",
-      "image": "https://imagenes.20minutos.es/files/image_640_auto/uploads/imagenes/2021/06/17/descanso-y-ricklajacion.png",
-      "apiId": "1"
-    },
-    {
-      "id": 2,
-      "name": "Shrimp Rick Sanchez",
-      "status": "Alive",
-      "species": "Shrimp",
-      "type": "Animal",
-      "gender": "Male",
-      "origin": "Earth (C-890)",
-      "image": "https://static.wikia.nocookie.net/rickandmorty/images/4/41/S4e1_shrimp_rick.png/revision/latest/scale-to-width-down/1200?cb=20191114004845",
+      "origin": "Earth (C-667)",
+      "image": "https://i.pinimg.com/474x/f7/c7/6d/f7c76d2f402daa68517ce7f1eb649a65.jpg",
       "apiId": "1"
     },
     {
@@ -30,12 +19,12 @@
       "type": "",
       "gender": "Male",
       "origin": "Earth (C-667)",
-      "image": "https://static.wikia.nocookie.net/rickandmorty/images/6/64/Toxic_Morty.png/revision/latest?cb=20170828222719",
+      "image": "",
       "apiId": "2"
     },
     {
       "id": 4,
-      "name": "Shrimp Rick Sanchez",
+      "name": "Shrimp Morty Smith",
       "status": "Alive",
       "species": "Shrimp",
       "type": "Animal",
