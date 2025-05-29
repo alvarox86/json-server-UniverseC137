@@ -1,28 +1,6 @@
 {
   "variations": [
     {
-      "id": 311,
-      "name": "Toxic Morty Smith",
-      "status": "Alive",
-      "species": "Human",
-      "type": "",
-      "gender": "Male",
-      "origin": "Earth (C-667)",
-      "image": "https://i.pinimg.com/474x/f7/c7/6d/f7c76d2f402daa68517ce7f1eb649a65.jpg",
-      "apiId": "1"
-    },
-    {
-      "id": 3,
-      "name": "Toxic Morty Smith",
-      "status": "Alive",
-      "species": "Human",
-      "type": "",
-      "gender": "Male",
-      "origin": "Earth (C-667)",
-      "image": "",
-      "apiId": "2"
-    },
-    {
       "id": 4,
       "name": "Shrimp Morty Smith",
       "status": "Alive",
@@ -32,6 +10,19 @@
       "origin": "Earth (C-890)",
       "image": "https://i.pinimg.com/474x/f7/c7/6d/f7c76d2f402daa68517ce7f1eb649a65.jpg",
       "apiId": "2"
+    },
+    {
+      "id": 5
+    },
+    {
+      "name": "Pickle Rick",
+      "status": "Alive",
+      "species": "Pickle",
+      "type": "Vegetable",
+      "gender": "Unknow",
+      "image": "data:image/jpeg;base64,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",
+      "apiId": "1",
+      "id": 6
     }
   ]
 }
